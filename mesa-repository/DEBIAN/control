@@ -1,0 +1,11 @@
+Package: mesa-repository
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:40
+Description: Add stable mesa repository: https://launchpad.net/~paulo-miguel-dias/+archive/ubuntu/pkppa
+
+
